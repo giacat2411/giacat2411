@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gia Cat
 - 👀 I’m interested in learning newthings
 - 🌱 I’m currently learning Computer Science at HCMUT
-- 💞️ I’m looking to collaborate on anything about programming
 - 📫 You can contact me by email: giacatnk@gmail.com
 
 <!---
